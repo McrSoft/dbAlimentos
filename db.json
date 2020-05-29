@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "origenAlimento": "frutas",
+    "nombre": "Manzana",
+    "cantGrs": 50,
+    "cantProteina": 3,
+	"image": "manzana.jpg",
+	"url":"https://via.placeholder.com/150/92c952"
+  },
+  {
+    "id": 2,
+    "origenAlimento": "frutas",
+    "nombre": "Platano",
+    "cantGrs": 50,
+    "cantProteina": 8,
+	"image": "platano.jpg",
+	"url":"https://via.placeholder.com/150/92c952"
+  },
+  {
+    "id": 3,
+    "origenAlimento": "verduras",
+    "nombre": "Aguacate",
+    "cantGrs": 30,
+    "cantProteina": 10,
+	"image": "aguacate.jpg",
+	"url":"https://via.placeholder.com/150/92c952"
+  },
+  {
+    "id": 4,
+    "origenAlimento": "verduras",
+    "nombre": "Espinaca",
+    "cantGrs": 20,
+    "cantProteina": 4,
+	"image": "espinaca.jpg",
+	"url":"https://via.placeholder.com/150/92c952"
+  }
+]
